@@ -1,0 +1,24 @@
+CRITICAL - 2023-11-30 07:08:24 --> Call to undefined method App\Controllers\Pegawai::responDelete()
+in APPPATH\Controllers\Pegawai.php on line 116.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pegawai->delete('3')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-30 07:11:32 --> Call to undefined method App\Controllers\Pegawai::responDelete()
+in APPPATH\Controllers\Pegawai.php on line 116.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pegawai->delete('4')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-30 07:13:08 --> Call to undefined method App\Controllers\Pegawai::responDelete()
+in APPPATH\Controllers\Pegawai.php on line 116.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pegawai->delete('5')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-30 07:14:59 --> Call to undefined method App\Controllers\Pegawai::responDeleted()
+in APPPATH\Controllers\Pegawai.php on line 116.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pegawai->delete('7')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

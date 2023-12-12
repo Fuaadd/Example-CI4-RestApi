@@ -1,4 +1,4 @@
-# Contoh Rest API
+# Contoh Rest API Codeigniter 4
 Untuk menjalankan proses backend untuk menjalankan perintah **Create (Post), Read (Get), Update (Put) dan Delete (Delete)** via aplikasi Postman menggunakan Codeigniter 4.
 
 ## Persiapan
